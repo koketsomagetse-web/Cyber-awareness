@@ -1,0 +1,65 @@
+# Cybersecurity: A Short Guide for Students
+
+Why this matters
+Cybersecurity means protecting computers, phones, and the data on them from theft, damage, or misuse. As a student you store personal info, schoolwork, emails, and passwords — all of which are targets. Good habits keep you, your classmates, and your school safer.
+
+Quick overview
+- Cybersecurity protects confidentiality (keeping data private), integrity (keeping data accurate), and availability (making sure you can access data when needed).
+- Threats include scams, viruses, data leaks, account takeovers, and privacy invasions.
+
+Common threats explained simply
+- Phishing: Fake emails or messages that trick you into giving passwords or clicking malicious links.
+- Malware: Software (viruses, ransomware, spyware) that harms devices or steals data.
+- Weak passwords: Easy or reused passwords let attackers into multiple accounts.
+- Public Wi‑Fi risks: Open networks can expose what you send and receive.
+- Social engineering: Manipulation (often by people pretending to be someone you trust) to get information.
+
+Smart habits to protect yourself
+1. Use strong, unique passwords
+   - Aim for long passphrases (3–5 random words or a sentence). Avoid obvious choices.
+   - Never reuse passwords across important accounts (email, bank, school portal).
+
+2. Turn on multi-factor authentication (MFA)
+   - MFA adds a second check (text code, authenticator app, or hardware key). It blocks most account takeovers.
+
+3. Keep software updated
+   - Install updates for your phone, laptop, browser, and apps — they fix security bugs.
+
+4. Think before you click
+   - Don’t open suspicious emails or links. Check the sender's address and hover links to preview URLs.
+   - Be cautious with attachments — especially .exe, .zip, or file types you weren’t expecting.
+
+5. Use secure Wi‑Fi and a VPN when needed
+   - Avoid sensitive work on public Wi‑Fi. If you must, use a reputable VPN and verify the network name.
+
+6. Backup important files
+   - Keep copies of assignments and notes in cloud storage or an external drive. Backups protect you from data loss or ransomware.
+
+7. Protect your devices physically
+   - Lock screens with PINs/biometrics and never leave devices unattended.
+
+8. Be careful with social media
+   - Limit personal information, check privacy settings, and think twice before sharing location or sensitive details.
+
+If something goes wrong
+- Change the password on the affected account and any accounts using the same password.
+- Enable MFA if not already on.
+- Scan your device with a trusted antivirus tool and restore from a backup if necessary.
+- Tell your teacher or school IT if school accounts or devices are affected.
+
+Career and learning pathways (if interested)
+- Topics: network security, ethical hacking, digital forensics, secure software development.
+- Start small: free online courses, school clubs, capture‑the‑flag (CTF) challenges, and mentorships.
+
+Quick checklist (before submitting an assignment or connecting to campus networks)
+- [ ] Strong, unique password
+- [ ] MFA enabled
+- [ ] Device updated
+- [ ] Data backed up
+- [ ] Network verified (or VPN on)
+
+Further resources
+- Stay informed by following trusted sources (school IT, government cybersecurity pages, reputable cybersecurity blogs).
+- Many free student-friendly courses are available from universities and platforms like Coursera, edX, or local community programs.
+
+Stay curious and cautious — good cybersecurity habits are simple and protect your work, privacy, and future.
